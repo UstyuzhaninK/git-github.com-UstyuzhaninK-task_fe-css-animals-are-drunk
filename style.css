@@ -1,0 +1,48 @@
+h1 {
+    color: olivedrab;
+    font-size: 34px;
+    font-family: fantasy;
+    text-align: center;
+    font-weight: 100;
+
+}
+
+h2 {
+    color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px;
+    font-size: 20px;
+    text-align: right;
+    font-weight: bolder;
+
+}
+
+h3 {
+    color: rgb(81, 116, 198);
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: -1px;
+    text-align: left;
+    font-weight: lighter;
+
+}
+
+p {
+    color: dimgrey;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 2cm;
+    text-align: center;
+    font-weight: 400;
+}
+
+ul {
+
+    list-style-type: decimal;
+    color: indigo;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    text-align: left;
+    font-weight: var(Calibri);
+
+}
